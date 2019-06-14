@@ -3,6 +3,7 @@ Rencana konten Rhinodev
 -javascript
  *ES6
  *Frameworks javascript
+- Struktur Data Dasar
 -PHP Frameworks
 -interview
 -ngoding bareng
